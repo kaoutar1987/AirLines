@@ -1,0 +1,22 @@
+{
+  "name": "airlines",
+  "version": "1.0.0",
+  "description": "airlines application ",
+  "main": "main.js",
+  "scripts": {
+    "start": "airline "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaoutar1987/AirLines.git"
+  },
+  "author": "airlines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaoutar1987/AirLines/issues"
+  },
+  "homepage": "https://github.com/kaoutar1987/AirLines#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
